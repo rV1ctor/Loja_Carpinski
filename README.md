@@ -27,7 +27,7 @@ Este projeto aprimorou minha capacidade de gerar insights valiosos, tornando o d
 Além das habilidades técnicas, aprendi técnicas de storytelling e reforcei a base em ETL e modelagem de dados, essenciais para análises robustas e comunicações claras.
 
 ## Skills Utilizadas
-- **Power BI**
+- **PowerBI**
 - **Soft Skills**
 
 ## Acesse o Projeto
